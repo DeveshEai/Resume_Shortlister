@@ -1,0 +1,36 @@
+JOB TITLE: Senior Full-Stack AI Engineer
+DEPARTMENT: Core Product Engineering
+
+ABOUT THE ROLE:
+We are seeking an experienced Senior Full-Stack AI Engineer to lead the design and implementation of modern AI-powered applications. You will architect robust, production-grade microservices and collaborate on intuitive web interfaces for our enterprise screening software.
+
+KEY RESPONSIBILITIES:
+- Architect, build, and deploy high-performance REST APIs in Python using FastAPI.
+- Develop interactive, responsive frontend user interfaces using React, TypeScript, and Tailwind CSS.
+- Integrate modern LLMs, neural model APIs, and vector databases for automated document reasoning.
+- Maintain production infrastructure using Docker, Kubernetes, and cloud platforms (AWS/GCP).
+- Implement thorough automated unit and integration tests.
+- Collaborate with product designers and HR domain specialists to ensure responsible AI practices.
+
+MANDATORY / REQUIRED SKILLS:
+- Python (FastAPI or Django)
+- React.js and TypeScript
+- Modern REST API architecture
+- Experience integrating AI / LLM APIs (e.g. Groq, OpenAI, or PyTorch)
+- Relational Databases (PostgreSQL or SQLite) and SQLAlchemy ORM
+- Docker and containerized deployment workflows
+- Git version control and CI/CD pipelines
+
+PREFERRED / BONUS SKILLS:
+- Vector databases (e.g. Qdrant, ChromaDB, Pinecone)
+- Cloud architecture on AWS (ECS, Lambda, S3)
+- PyMuPDF or Document OCR extraction
+- Tailwind CSS and modern UI libraries (Lucide React, Recharts)
+- Kubernetes cluster management
+
+EXPERIENCE REQUIREMENTS:
+- Minimum 5+ years of relevant software engineering experience.
+- Demonstrated experience bringing AI features or document intelligence pipelines into production.
+
+EDUCATION REQUIREMENTS:
+- Bachelor's degree in Computer Science, Software Engineering, STEM field, or equivalent practical experience.
